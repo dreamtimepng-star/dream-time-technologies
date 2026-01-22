@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Donors — Dream Time Technologies Limited</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="dream-time-stories.html">Dream Time Stories</a>
+  <a href="about.html">About</a>
+  <a href="donors.html">Donors</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+  <h1>Donors & Partners</h1>
+  <p>
+    We welcome partnerships with donors, NGOs, and development agencies
+    to support Dream Time Stories for children in Papua New Guinea.
+  </p>
+</section>
+
+<div class="container">
+  <h2>Program Snapshot</h2>
+  <ul>
+    <li><strong>Annual Output:</strong> 96 children’s stories (8 per month)</li>
+    <li><strong>Age Groups:</strong> 0–3, 4–6, 7–10 years</li>
+    <li><strong>Formats:</strong> PDFs/eBooks + narration scripts</li>
+    <li><strong>Reporting:</strong> Monthly updates + quarterly reports + annual report</li>
+  </ul>
+
+  <h2>Download</h2>
+  <p>
+    Download our donor pack for budget, timeline, KPIs, risk register, and reporting framework.
+  </p>
+
+  <a class="btn" href="DreamTeam_DonorPack.pdf" target="_blank">Download Donor Pack (PDF)</a>
+
+  <h2>How to Partner</h2>
+  <p>
+    For donor discussions, sponsorship, or program collaboration, contact us anytime.
+  </p>
+
+  <a class="btn" href="contact.html">Contact Us</a>
+</div>
+
+<footer>
+  © Dream Time Technologies Limited | dreamtimepng@gmail.com | +675 7297 9178
+</footer>
+
+</body>
+</html>
